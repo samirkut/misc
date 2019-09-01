@@ -47,6 +47,3 @@ Side-car proxy handles the following functions
 *control plane sets policy to be enacted by the data plane*
 
 ![center width:700](service_plane.png)
-
----
-
